@@ -1,0 +1,23 @@
+.sectionTitulo {
+    display: flex;
+    height: 320px;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 130px;
+}
+
+.tituloPrincipal {
+    font-size: 56px;
+    color: white;
+    margin-bottom: 23px;
+}
+
+.tituloSecundario {
+    font-size: 24px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.tituloSpan {
+    color: var(--verde-principal);
+}
