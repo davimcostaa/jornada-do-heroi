@@ -1,4 +1,4 @@
-# Jornada do Héroi
+# Jornada do Herói
 
 Aplicação desenvolvida em NextJS que apresenta uma lista de heróis com um sistema de combate baseados nos statspoints de cada um.
 
